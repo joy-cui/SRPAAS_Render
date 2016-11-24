@@ -1,0 +1,11 @@
+com.suirui.srpaas.render.BuildConfig
+com.suirui.srpaas.render.GLES20Support
+com.suirui.srpaas.render.GLES20Support$1
+com.suirui.srpaas.render.GLFrameRenderer
+com.suirui.srpaas.render.GLFrameSurface
+com.suirui.srpaas.render.GLProgram
+com.suirui.srpaas.render.ISimplePlayer
+com.suirui.srpaas.render.VideoView
+com.suirui.srpaas.render.VideoView$ConfigChooser
+com.suirui.srpaas.render.VideoView$ContextFactory
+com.suirui.srpaas.render.VideoView$Listener

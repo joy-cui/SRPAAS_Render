@@ -1,0 +1,11 @@
+-classpath 'D:\\tools\\sdk\\adt-bundle-windows-x86_64-20140702\\sdk\\platforms\\android-24\\android.jar'
+-d 'E:\\workspace\\android_lib\\libs\\SRPAAS_Render\\SRPAAS_Render\\build\\docs\\javadoc'
+-doctitle 'SRPAAS_Render API'
+-quiet 
+-windowtitle 'SRPAAS_Render API'
+'E:\\workspace\\android_lib\\libs\\SRPAAS_Render\\SRPAAS_Render\\src\\main\\java\\com\\suirui\\srpaas\\render\\GLES20Support.java'
+'E:\\workspace\\android_lib\\libs\\SRPAAS_Render\\SRPAAS_Render\\src\\main\\java\\com\\suirui\\srpaas\\render\\GLFrameRenderer.java'
+'E:\\workspace\\android_lib\\libs\\SRPAAS_Render\\SRPAAS_Render\\src\\main\\java\\com\\suirui\\srpaas\\render\\GLFrameSurface.java'
+'E:\\workspace\\android_lib\\libs\\SRPAAS_Render\\SRPAAS_Render\\src\\main\\java\\com\\suirui\\srpaas\\render\\GLProgram.java'
+'E:\\workspace\\android_lib\\libs\\SRPAAS_Render\\SRPAAS_Render\\src\\main\\java\\com\\suirui\\srpaas\\render\\ISimplePlayer.java'
+'E:\\workspace\\android_lib\\libs\\SRPAAS_Render\\SRPAAS_Render\\src\\main\\java\\com\\suirui\\srpaas\\render\\VideoView.java'

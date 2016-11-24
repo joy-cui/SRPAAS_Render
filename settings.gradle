@@ -1,0 +1,5 @@
+//include ':RenderDemo', ':SRPAAS_Render', ':Render_Sample', ':Render_Sample'
+//project(':Render_Sample').projectDir = new File('RenderDemo')
+
+
+include ':RenderDemo', ':SRPAAS_Render'
